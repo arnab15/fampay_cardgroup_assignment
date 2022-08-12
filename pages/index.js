@@ -12,9 +12,9 @@ export default function Home({ data }) {
             setTimeout(async () => {
                 try {
                     const res = await apiServices.fecthContextualCards();
-                    const data = await res.json();
+                    const fetchedData = await res.json();
                     console.log(data);
-                    setCardGroups(data.card_groups ? data.card_groups : []);
+                    setCardGroups(fetchedData.card_groups ? [...fetchedData.card_groups] : []);
                     resolve();
                 } catch (error) {
                     reject(error);
