@@ -1,5 +1,7 @@
 This is Fampay Frontend intenship assignment [View Live Site](https://fampay-cardgroup-assignment.vercel.app/)
 
+***Make sure to open the [live preview link](https://fampay-cardgroup-assignment.vercel.app/)  with mobile view as It was only built for mobile view***
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
