@@ -6,9 +6,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## UI View
 
- <img src="readme-images/1stscreen.png"/> 
- <img src="readme-images/2ndscreen.png"/> 
-
+ <img src="/redme-images/1stscreen.png"/> 
+ <br>
+ <img src="/redme-images/2ndscreen.png"/>
 
 First, run the development server:
 
